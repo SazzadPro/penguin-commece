@@ -1,0 +1,106 @@
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h3, h5{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+
+}
+#all-button{
+    width: 140px;
+    height: 50px;
+    background-color:  #8DA825;
+    border-radius: 10px;
+    border: 0;
+
+}
+#women-jacket h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #363958;
+   
+}
+
+#man-jacket h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #363958;
+}
+#women-jacket img{
+    width: 270px;
+    height: 270px;
+    
+}
+#man-jacket img{
+    width: 270px;
+    height: 270px;
+}
+.women-jacket-single{
+    background-color: #F1F1F1;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+.man-jacket-single{
+    background-color: #F1F1F1;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+.card-body{
+    margin-left: 10px;
+}
+.footer-card-area{
+    display: flex;
+    justify-content:space-evenly;
+    color: #FABE4C;
+}
+
+#promotiona-area-section{
+    padding-top: 50px;
+
+}
+.promotional-area{
+padding: 10px;
+margin: 0;
+
+
+}
+.promotional-area h5{
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+.promotional-area p{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    margin-bottom: 15px;
+}
+nav .navbar-nav a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-left: 260px;
+    padding-top: 10px;
+    justify-content: end;
+
+}
+
+ header{
+    background-color: #FFFBF0;
+    padding-left: 6%;
+    padding-right: 8%;
+    padding-bottom: 60px;
+  
+}
+
+footer{
+    height: 100px;
+    background-color: #FFFBF0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
